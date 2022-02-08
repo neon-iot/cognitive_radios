@@ -1,5 +1,5 @@
-# Demo course template
-## About this course
+# Cognitive Radio Repository
+## This repository is intended to house material
 This course...
 
 ## Main topics
