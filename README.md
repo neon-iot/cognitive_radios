@@ -12,8 +12,9 @@ This course...
 * ...
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
+* Basic knowledge on communication systemas
+* Basic Knowledge on statistic and probability
+* Previous knowledge or experience in programming (Matlab, python, C++) is recomended 
 
 
 ***
