@@ -1,6 +1,6 @@
 # Cognitive Radio Repository
-## This repository is intended to house material
-This course...
+## This repository is intended to house materials of machine learning for communication systems. 
+
 
 ## Main topics
 * This
