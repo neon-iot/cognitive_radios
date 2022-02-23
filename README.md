@@ -1,10 +1,12 @@
 # Cognitive Radio Repository
-## This repository is intended to house materials of machine learning for communication systems. 
+This repository is intended to house materials of machine learning for communication systems. It includes materials to understand the principles of machine learning that are applied to configure software defined radio devices.
 
 
 ## Main topics
-* This
-* That
+* Neural networks
+* Automatic modulation clasification
+* Autoencoder
+* Neural networks
 
 ## What you will learn
 * This
