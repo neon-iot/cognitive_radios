@@ -1,5 +1,5 @@
 # Cognitive Radio Repository
-This repository is intended to house materials of machine learning for communication systems. It includes materials to understand the principles of machine learning that are applied to configure software defined radio devices.
+This repository is intended to house materials of machine learning for communication systems. It includes materials to understand the principles of machine learning that are applied to configure software defined radio devices. Besides, the combination of machine learning algorithm with software define radio devices enables other application than communications, like fingerprinting for identification and authentication, positioning, etc
 
 
 ## Main topics
@@ -9,9 +9,9 @@ This repository is intended to house materials of machine learning for communica
 * Neural networks
 
 ## What you will learn
-* This
-* That
-* ...
+* Configure a software defined radio platform for spectrum sensing
+* Identify different machine learning strategies for communicacions and RF sensing
+* Determined optimal parameters by means of machine learning approach
 
 ## What you will need:
 * Basic knowledge on communication systemas
