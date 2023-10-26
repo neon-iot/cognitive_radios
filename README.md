@@ -6,7 +6,7 @@ This repository is intended to house materials of machine learning for communica
 * Neural networks
 * Automatic modulation clasification
 * Autoencoder
-* Neural networks
+* Reinforment Learning
 
 ## What you will learn
 * Configure a software defined radio platform for spectrum sensing
